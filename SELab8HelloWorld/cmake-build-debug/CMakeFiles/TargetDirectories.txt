@@ -1,0 +1,3 @@
+C:/Users/paule/CLionProjects/SELab8HelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/paule/CLionProjects/SELab8HelloWorld/cmake-build-debug/CMakeFiles/SELab8HelloWorld.dir
+C:/Users/paule/CLionProjects/SELab8HelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
